@@ -1,7 +1,7 @@
 // App.js
 import Hero from "./components/Hero";
 import Benefits from "./components/Benefits";
-import ProductShowcase from "./components/ProductShowcase";
+import ProductShowcase from "./components/ProductShowCase";
 import Description from "./components/Description";
 import Testimonials from "./components/Testimonials";
 import Pricing from "./components/Pricing";

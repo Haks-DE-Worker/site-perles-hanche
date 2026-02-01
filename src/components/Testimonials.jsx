@@ -5,21 +5,21 @@ export default function Testimonials() {
     {
       name: "Sophie M.",
       location: "Bénin",
-      image: "images/femme1.jpg",
+      image: "/images/femme1.jpg",
       text: "La première fois que je l'ai portée, j'ai senti quelque chose changer en moi. Ce n'est pas juste un bijou, c'est une révélation de ma féminité.",
       rating: 5
     },
     {
       name: "Léa D.",
       location: "Ghana",
-      image: "images/femme2.jpg",
+      image: "/images/femme2.jpg",
       text: "Je ne pensais pas qu'un bijou pouvait avoir autant d'impact sur ma confiance. Chaque jour, il me rappelle ma valeur. Un investissement en moi-même.",
       rating: 5
     },
     {
       name: "Camille R.",
       location: "Togo",
-      image: "images/femme3.jpg",
+      image: "/images/femme3.jpg",
       text: "L'or est d'une finesse incroyable, la chaîne épouse parfaitement mes hanches. C'est devenu mon bijou signature, celui que je ne quitte jamais.",
       rating: 5
     },

@@ -5,22 +5,22 @@ export default function ProductShowcase() {
 
   const showcaseItems = [
     {
-      image: "images/chaine2.jfif",
+      image: "/images/chaine2.jfif",
       label: "Vue de profil",
       subtitle: "Délicatesse absolue"
     },
     {
-      image: "images/chaine1.jfif",
+      image: "/images/chaine1.jfif",
       label: "Détails dorés",
       subtitle: "Or 18 carats"
     },
     {
-      image: "images/chaine5.webp",
+      image: "/images/chaine5.webp",
       label: "Port naturel",
       subtitle: "Ajustable à l'infini"
     },
     {
-      image: "images/chaine4.webp",
+      image: "/images/chaine4.webp",
       label: "Finitions précieuses",
       subtitle: "Fait main"
     }

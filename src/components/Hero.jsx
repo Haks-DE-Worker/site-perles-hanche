@@ -117,7 +117,7 @@ export default function Hero() {
                 
                 {/* Image */}
                 <img 
-                  src="images/chaine1.jfif"
+                  src="/images/chaine1.jfif"
                   alt="Femme élégante portant une chaîne de hanche en or"
                   className="w-full h-full object-cover object-center"
                 />
